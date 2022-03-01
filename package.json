@@ -1,0 +1,25 @@
+{
+  "name": "expresswork",
+  "version": "1.0.0",
+  "description": "Lab/HW practice on express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielleMatthews/ExpressWork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielleMatthews/ExpressWork/issues"
+  },
+  "homepage": "https://github.com/DanielleMatthews/ExpressWork#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {}
+}
